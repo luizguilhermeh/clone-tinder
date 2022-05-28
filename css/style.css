@@ -38,7 +38,7 @@ body {
 .photo {
     width: 90vw;
     height: 85vh;
-    background: url('../img/mulher1.jpg') center center/cover;
+    background: url('../img/mulher0.jpg') center center/cover;
     border-radius: 10px;
     display: flex;
     align-items: flex-end;
